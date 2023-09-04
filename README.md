@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: Please reach me out on my email:[rtaiga119@gmail.com](rtaiga119@gmail.com) or my [LinkedIn](https://www.linkedin.com/in/rio-taiga/)
+- 📫 How to reach me: Please reach me out on my email [rtaiga119@gmail.com](rtaiga119@gmail.com) or my [LinkedIn](https://www.linkedin.com/in/rio-taiga/)
 
 <!--
 **riotaiga/riotaiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
