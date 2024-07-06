@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riotaiga&label=Profile%20views&color=0e75b6&style=flat" alt="riotaiga" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, Python**
+- 🌱 I’m currently learning **JavaScript, Python, AWS**
 
 - 📫 How to reach me **rtaiga119@gmail.com**
 
@@ -20,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riotaiga&show_icons=true&locale=en" alt="riotaiga" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riotaiga&" alt="riotaiga" /></p>
+
