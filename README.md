@@ -3,9 +3,8 @@
 
 ---
 
-- 🌱 Currently learning **JavaScript, Python, AWS**
 - 📫 Reach me at **rtaiga119@gmail.com**
-- 💼 Connect on [LinkedIn](https://linkedin.com/in/riotaiga)
+- 💼 Connect on [LinkedIn](https://linkedin.com/in/rio-taiga)
 
 ---
 
